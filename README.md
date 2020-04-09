@@ -1,2 +1,2 @@
-# C-34
-I created a painting app:Stage1.
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
